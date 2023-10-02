@@ -1,0 +1,9 @@
+for admin login:
+id = admin
+password = bank
+
+accNo.txt => contain acc num to be assigned
+nic => contains info of multiple acc created on a single nic
+acc+data => contains info about details of a particular acc
+accNo => contains record of transctions
+files for electric and gas accounts
